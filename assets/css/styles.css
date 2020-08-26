@@ -1,0 +1,108 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.myDarkGreen{color:#295235}
+.myDarkGreenBkgrnd{background-color:#295235; color:white}
+.carouselHeadline{color:silver}
+
+h1{font-size:2em;  font-family: 'Oswald', sans-serif; margin-top:10px;}
+h2{font-family: "Cabin", sans-serif; color:#295235}
+h3 {font-family: "Cabin", sans-serif;color:#252963;}
+
+.websiteID{font-size:2em; font-family:'Oswald', sans-serif; }
+.websiteTagLine{font-size:1.0em; font-family: "Cabin", sans-serif;}
+
+#pageContent{margin-top:10px;}
+#pageTitle{margin-top:30px;}
+#googleMap{margin-bottom:50px;}
+
+/* 'Delius Swash Caps', cursive;   */
+
+
+header h2 {
+    color: silver
+}
+
+
+
+
+#pageContent a:link { color:#252963; text-decoration: underline; }
+#pageContent a:visited {  color:#252963  }
+#pageContent a:hover {    color:#295235; background-color: lightyellow;}
+#pageContent a:active {  color:#252963 }
+
+
+
+
+
+footer {
+    background-color:();
+    background-color:#302403;
+    padding: 20px 0;
+    color:white;
+   
+}
+
+
+  footer a:link {  color:white;  }
+  footer a:visited {    color: white;  }
+  footer a:hover {    color:#295235; font-weight: bold; }
+  footer a:active {    color: white;  }
+ 
+  #listLinks li{line-height: 20px;background-color:#302403;border:none;}
+
+
+.jumbotron {
+    margin:0;
+    padding: 30px;
+   /* background-image: url(''); */
+    background-color:#295235;
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar{
+    background-color:   #252963
+}
+.tab-content{
+    border: 1px solid#DDD;  /* gives a border around each tab content panel */
+    border-top: none;
+    padding:10px;
+}
+#loginBtn:hover {cursor: pointer;}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid   #252963
+}
+
+.productRowHeader{
+    margin-top:50px;    
+    padding-top:10px;
+    margin-bottom:10px;
+    background-color: #295235;
+    color:white;    
+}
+.productRowHeader h2{color:white;}
+.productRowItems{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+#navBarAbout{margin-bottom:0; padding:0;}
+
+
+
+i{padding:3px;}
+
+ul li.siteMapLinks{ text-align:left;line-height:3rem; line-height: 55px;text-decoration: none;}
+
+ul li.footerLink{list-style-type: none; text-align:left; line-height: 2rem;}
